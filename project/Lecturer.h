@@ -6,7 +6,6 @@
 #include "AttendanceRecord.h"
 using namespace std;
 
-
 class Student;
 
 class Lecturer {
